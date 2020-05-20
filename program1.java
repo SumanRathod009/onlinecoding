@@ -1,4 +1,14 @@
-import java.util.*;
+(program1.java)
+Using methods charAt() & length() of String class, write a program to print the
+frequency of each character in a string.
+
+“Hello friend”
+Output should be
+-: 1
+d: 1
+e: 2
+f: 1
+(continued for all character in the string)import java.util.*;
 
 public class Main
 {
